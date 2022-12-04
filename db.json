@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "01GD00W03WPCXE61K6ZDSFZE49",
+      "text": "散歩",
+      "done": true
+    },
+    {
+      "id": "01GD00WVP0C5NVS0WBHMQX5DFM",
+      "text": "プログラミング",
+      "done": true
+    },
+    {
+      "id": "01GD00YXEWKSB3XRVE3HP32KNR",
+      "text": "課題",
+      "done": true
+    }
+  ]
+}
