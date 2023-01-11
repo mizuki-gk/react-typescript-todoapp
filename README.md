@@ -10,6 +10,8 @@
 ## 使用技術
 - React
 - TypeScritpt
+- HTML
+- CSS
 
 ## 使用ライブラリ
 - axios
