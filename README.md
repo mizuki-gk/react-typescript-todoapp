@@ -8,10 +8,11 @@
 - タスクの削除
 
 ## 使用技術
-- React
-- TypeScritpt
 - HTML
 - CSS
+- TypeScript
+- React
+
 
 ## 使用ライブラリ
 - axios
